@@ -33,7 +33,3 @@ These libraries can be installed using pip:
 
 ```bash
 git pip install yfinance pandas matplotlib seaborn
-
-
-
-
