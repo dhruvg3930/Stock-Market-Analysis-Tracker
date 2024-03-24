@@ -16,6 +16,13 @@ for data retrieval.
 - **Plotting Rolling Volatility**: Visualize the rolling volatility of the stock over time.
 - **Additional Seaborn Plots**: Include an additional Seaborn plot to visualize the distribution of daily returns using a histogram.
 
+## Installation
+
+Clone the repository:
+
+```bash
+clone https://github.com/your_username/stock-analysis-tool.git
+```
 
 ## Usage
 
@@ -30,7 +37,11 @@ This project requires the following libraries:
 `yfinance` `pandas` `matplotlib` `seaborn`
 
 These libraries can be installed using pip:
-
 ```bash
 pip install yfinance pandas matplotlib seaborn
+```
+
+## Author
+
+### Dhruv Ghoshal 
 
