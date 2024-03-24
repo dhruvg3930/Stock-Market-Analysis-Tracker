@@ -32,4 +32,5 @@ This project requires the following libraries:
 These libraries can be installed using pip:
 
 ```bash
-git pip install yfinance pandas matplotlib seaborn
+pip install yfinance pandas matplotlib seaborn
+
