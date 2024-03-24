@@ -17,12 +17,8 @@ for data retrieval.
 - **Additional Seaborn Plots**: Include an additional Seaborn plot to visualize the distribution of daily returns using a histogram.
 
 ## Installation
-
-Clone the repository:
-
-```bash
-clone https://github.com/your_username/stock-analysis-tool.git
-```
+Clone the repository
+(https://github.com/dhruvg3930/Stock-Market-Analysis-Tracker.git)
 
 ## Usage
 
@@ -42,6 +38,5 @@ pip install yfinance pandas matplotlib seaborn
 ```
 
 ## Author
-
 ### Dhruv Ghoshal 
 
