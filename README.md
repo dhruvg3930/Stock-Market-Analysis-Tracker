@@ -22,7 +22,7 @@ Clone the repository
 
 ## Usage
 
-- Run the script `stock-market-analysis-tracker.py`
+- Run the script `Stock Market Analysis Tracker.py`
 - When prompted, enter the stock symbol, start date, and end date.
 - View the calculated statistics and plots generated.
 
